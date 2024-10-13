@@ -51,7 +51,7 @@ export const BentoGridItem = ({
 }) => {
     const [copied, setCopied] = useState(false);
     const handleCopy = () => {
-        navigator.clipboard.writeText('yasinmunn@gmail.com');
+        navigator.clipboard.writeText('akmsyfulbd12@gmail.com');
 
         setCopied(true);
     }
@@ -71,6 +71,7 @@ export const BentoGridItem = ({
         <div className="w-full h-full absolute">
           {img && (
             <img
+           
               src={img}
               alt={img}
               className={cn(imgClassName, "object-cover", "object-center")}
@@ -83,7 +84,8 @@ export const BentoGridItem = ({
           }`}
         >
           {spareImg && (
-            <img
+             <img
+             fill={true}
               src={spareImg}
               alt={spareImg}
               className={"object-cover, w-full, h-full, object-center"}
@@ -98,7 +100,7 @@ export const BentoGridItem = ({
         <div
           className={cn(
             titleClassName,
-            "group-hover/bento:translate-x-2 transition duration-200 relative md:h-full min-h-40 flex flex-col px-5 p-5 lg:p-10"
+            "group-hover/bento:translate-x-2 transition duration-200 relative md:h-full min-h-40 flex flex-col px-5 p-5 lg:p-10 z-100"
           )}
         >
           <div className="font-sans font-extralight text-[#c1c2d3] text-sm md:text-xs lg:text-base z-10">
