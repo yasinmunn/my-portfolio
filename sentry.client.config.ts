@@ -4,16 +4,16 @@
 
 import * as Sentry from "@sentry/nextjs";
 
-Sentry.init({
+Sentry?.init({
   dsn: "https://6be7bfd90a77aad2bca3d0e40c12cd2a@o4508087023763456.ingest.us.sentry.io/4508087027171328",
 
   // Add optional integrations for additional features
   integrations: [
-    Sentry.replayIntegration({
+    Sentry?.replayIntegration({
       maskAllText: true,
       blockAllMedia: true,
     }),
-    Sentry.feedbackIntegration({
+    Sentry?.feedbackIntegration({
       // Additional SDK configuration goes in here, for example:
       colorScheme: "dark",
     })
