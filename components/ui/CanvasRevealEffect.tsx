@@ -97,7 +97,7 @@ const DotMatrix: React.FC<DotMatrixProps> = ({
 
     return {
       u_colors: {
-        value: colorsArray.map((color) => [
+        value: colorsArray?.map((color) => [
           color[0] / 255,
           color[1] / 255,
           color[2] / 255,
@@ -230,7 +230,7 @@ const ShaderMaterial = ({
           break;
         case "uniform3fv":
           preparedUniforms[uniformName] = {
-            value: uniform.value.map((v: number[]) =>
+            value: uniform.value?.map((v: number[]) =>
               new THREE.Vector3().fromArray(v)
             ),
             type: "3fv",

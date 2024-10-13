@@ -28,7 +28,7 @@ const Footer = () => {
           Copyright © 2024 AKM SYFUL ALOM
         </p>
         <div className="flex items-center md:gap-3 gap-6">
-          {socialMedia.map((profile) => (
+          {socialMedia?.map((profile) => (
             <a
               key={profile.id} 
               href={profile.link} 
