@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: " Yasin Portfolio",
-  description: "Modern & Minimalist Website With Yasin",
+  title: " AKM SYFUL Portfolio",
+  description: "Modern & Minimalist Website With AKM SYFUL",
 };
 
 export default function RootLayout({
