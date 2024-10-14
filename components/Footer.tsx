@@ -15,7 +15,7 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how i can help you
           achieve your goals.
         </p>
-        <a href="mailto:yasinmunn@gmail.com">
+        <a href="mailto:akmsyfulbd12@gmail.com">
           <MagicButton
             title="Let's Get In Touch"
             icon={<FaLocationArrow></FaLocationArrow>}
@@ -25,10 +25,10 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light ">
-          Copyright © 2024 Yasin
+          Copyright © 2024 AKM SYFUL ALOM
         </p>
         <div className="flex items-center md:gap-3 gap-6">
-          {socialMedia.map((profile) => (
+          {socialMedia?.map((profile) => (
             <a
               key={profile.id} 
               href={profile.link} 
