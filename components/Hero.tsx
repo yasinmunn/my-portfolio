@@ -29,7 +29,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experience"
             />
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi, I'm AKM SYFUL, a Full Stack Web App Developer based in Bangladesh.
+                Hi, I'm Yasin, a Next.js Developer based in Bangladesh.
             </p>
             <a href="#about">
                 <MagicButton
