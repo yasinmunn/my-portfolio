@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: " AKM SYFUL Portfolio",
-  description: "Modern & Minimalist Website With AKM SYFUL",
+  title: " Your Trusted Partner in Full Stack Web Development",
+  description: "I'm Yasin, a committed Full Stack Web App Developer dedicated to crafting user-friendly and impactful web experiences. Let's collaborate to turn your concepts into reality!",
 };
 
 export default function RootLayout({
