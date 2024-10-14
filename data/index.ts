@@ -106,36 +106,43 @@ export const navItems = [
   
   export const testimonials = [
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "I highly recommend Yasin Ahmed Munna for all your website needs. He is the best website designer one could ever ask for. He works and delivers really fast. He is responsive, responsible, trustworthy and very knowledgeable in what he does. His politeness and patience is admirable! Please check out my website and see it for yourself ⬇️ Enjoy my music, while you’re at it 😉🎵",
+      name: "Faranak Shahroozi",
+      title: "Concert Pianist and Composer",
+      profileImage: "https://i.postimg.cc/RhQcM32W/Faranak.jpg"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "Yasin has been instrumental in elevating our online presence. He rebuilt our website to be modern and user-friendly, significantly improving our SEO and attracting more patients. His marketing expertise has boosted our clinic's visibility, and we’ve seen a noticeable increase in new patient inquiries. Yasin is reliable, professional, and truly understands what it takes to grow a healthcare practice.",
+      name: "Dr. Nathan Hansen",
+      title: "Chiropractor, Infinity Wellness Chiropractic",
+      profileImage: "https://i.postimg.cc/PrXDW5BM/Screenshot-2024-10-14-at-10-33-09-PM.png"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "Yasin has been incredible in managing everything from web development to marketing for our company. He revamped our website to showcase our work effectively and has consistently driven results through his marketing strategies. Yasin is professional, dependable, and knows how to help a business grow. Highly recommended!",
+      title: "Owner, TX Pavers and Turf",
+      name: "Hadi Taffal",
+      profileImage: "https://txpaversandturf.com/wp-content/uploads/2023/10/cropped-32fffa22-b574-4426-9361-c72e06f34972-32x32.jpg"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "I highly recommend Yasin Ahmed Munna for all your website needs. He is the best website designer one could ever ask for. He works and delivers really fast. He is responsive, responsible, trustworthy and very knowledgeable in what he does. His politeness and patience is admirable! Please check out my website and see it for yourself ⬇️ Enjoy my music, while you’re at it 😉🎵",
+      name: "Faranak Shahroozi",
+      title: "Concert Pianist and Composer",
+      profileImage: "https://i.postimg.cc/RhQcM32W/Faranak.jpg"
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote: "Yasin has been instrumental in elevating our online presence. He rebuilt our website to be modern and user-friendly, significantly improving our SEO and attracting more patients. His marketing expertise has boosted our clinic's visibility, and we’ve seen a noticeable increase in new patient inquiries. Yasin is reliable, professional, and truly understands what it takes to grow a healthcare practice.",
+      name: "Dr. Nathan Hansen",
+      title: "Chiropractor, Infinity Wellness Chiropractic",
+      profileImage: "https://i.postimg.cc/PrXDW5BM/Screenshot-2024-10-14-at-10-33-09-PM.png"
+    },
+    {
+      quote: "Yasin has been incredible in managing everything from web development to marketing for our company. He revamped our website to showcase our work effectively and has consistently driven results through his marketing strategies. Yasin is professional, dependable, and knows how to help a business grow. Highly recommended!",
+      name: "Hadi Taffal",
+      title: "Owner, TX Pavers and Turf",
+      profileImage: "https://txpaversandturf.com/wp-content/uploads/2023/10/cropped-32fffa22-b574-4426-9361-c72e06f34972-32x32.jpg"
     },
   ];
+  
   
   export const companies = [
     {
